@@ -1,0 +1,17 @@
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\obj\Debug\net6.0-windows\calculadora-interface.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\obj\Debug\net6.0-windows\calculadora_complexa.Calculadora.resources
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\obj\Debug\net6.0-windows\calculadora-interface.csproj.GenerateResource.cache
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\obj\Debug\net6.0-windows\calculadora-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\obj\Debug\net6.0-windows\calculadora-interface.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\obj\Debug\net6.0-windows\calculadora-interface.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\obj\Debug\net6.0-windows\calculadora-interface.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\bin\Debug\net6.0-windows\calculadora-interface.exe
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\bin\Debug\net6.0-windows\calculadora-interface.deps.json
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\bin\Debug\net6.0-windows\calculadora-interface.runtimeconfig.json
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\bin\Debug\net6.0-windows\calculadora-interface.dll
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\bin\Debug\net6.0-windows\calculadora-interface.pdb
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\obj\Debug\net6.0-windows\calculadora-interface.dll
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\obj\Debug\net6.0-windows\refint\calculadora-interface.dll
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\obj\Debug\net6.0-windows\calculadora-interface.pdb
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\obj\Debug\net6.0-windows\calculadora-interface.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-interface\calculadora-interface\obj\Debug\net6.0-windows\ref\calculadora-interface.dll
